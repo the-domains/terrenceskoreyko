@@ -1,0 +1,28 @@
+name: terrenceskoreyko
+favicon: null
+layout_spectrum: 0.6887292137835175
+typography_spectrum: 0.7558143441565335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5086604277603328
+  lightness: 0.19869584497064352
+  saturation: 0.42495446000248194
+  rhythmicContrast: 0.7592207156121731
+purpose: []
