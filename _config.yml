@@ -1,39 +1,40 @@
+layout_spectrum: 0
 favicon: null
 name: terrenceskoreyko
+purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     permalink:
       path: '/:title/'
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
-purpose: []
-color:
-  saturation: 0.4249544600024819
-  brandStrength: 0.4212766
-  lightness: 0.1986958449706435
-  brandColors:
-    - '#FFFFFF'
-    - '#161616'
-    - '#656565'
-    - '#C6C6C6'
-  rhythmicContrast: 0.7592207156121731
-typography_spectrum: 0.7558143441565335
-layout_spectrum: 0.1893617
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+color:
+  brandStrength: 0.4212766
+  lightness: 0.1986958449706435
+  saturation: 0.4249544600024819
+  rhythmicContrast: 0.7592207156121731
+  brandColors:
+    - '#060302'
+    - '#FFFFFF'
+    - '#444143'
+    - '#898688'
+    - '#C7C5C6'
+typography_spectrum: 0.5131579
